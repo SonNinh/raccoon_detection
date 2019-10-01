@@ -1,6 +1,8 @@
 # Raccoon Detector
-This project follows the instruction at (http://www.dat-tran.com/) and (https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku)
+This project follows the instruction at (http://www.dat-tran.com/) and (https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku).
+
 This dataset is coppied from DatTran's repo (https://github.com/datitran/raccoon_dataset), then I trained it from scratch and update trained model to 'output_raccon_graph' folder. Images are from Google and Pixabay. In total, there are 200 images (160 are used for training and 40 for validation).
+
 The [TensorFlow's Object Detection API] can be downloaded from (https://github.com/tensorflow/models/tree/master/research/object_detection). 
 
 ##### Folder Structure:
